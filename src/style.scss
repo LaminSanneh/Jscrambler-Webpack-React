@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./fonts/advent-pro-v9-latin-regular.woff2") format("woff2"),
+    url("./fonts/advent-pro-v9-latin-regular.woff") format("woff");
+}
+
+.hello-text {
+  color: red;
+  font-family: "Advent Pro";
+}
